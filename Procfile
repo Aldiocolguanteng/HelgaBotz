@@ -1,1 +1,1 @@
-worker :  npm i terminal-kit && npm i ffmpeg && npm start
+worker :  npm i terminal-kit && npm start
