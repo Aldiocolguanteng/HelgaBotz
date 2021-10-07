@@ -1,1 +1,1 @@
-worker :  npm i terminal-kit && bash install.sh && npm start
+worker :  npm i terminal-kit && npm i ffmpeg && npm start
